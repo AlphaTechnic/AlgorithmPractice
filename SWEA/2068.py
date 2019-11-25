@@ -7,6 +7,3 @@ for _ in range(T):
 
 for index, numbers in enumerate(data):
     print("#%s" % (index + 1), max(numbers))
-
-
-
