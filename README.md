@@ -1,4 +1,4 @@
-# Learn python language through SWEA
+# Learn through SWEA
 
 ## Basic problems
 
